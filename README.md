@@ -33,11 +33,5 @@ Interested in joining our organization or collaborating with us? Reach out to us
 
 Unless otherwise stated, all projects in this organization are licensed under the [MIT License](LICENSE). Please refer to individual repositories for specific licensing information.
 
-## Connect with Us 🌐
-
-- **Website**: [Your Organization's Website](https://your-organization-website.com)
-- **Twitter**: [@YourOrgTwitter](https://twitter.com/YourOrgTwitter)
-- **LinkedIn**: [Your Organization LinkedIn](https://www.linkedin.com/company/your-organization)
-
 Thank you for visiting our GitHub organization! We look forward to your contributions and collaboration. Together, we can make a difference!
 
