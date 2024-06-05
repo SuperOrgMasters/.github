@@ -14,7 +14,7 @@ Here are some of our key projects:
 
 - **[ManBearPig]**
 - **[Seinfeld]**
-- **[Rig the Stanley Cup Finals so that the Oilers Win]**: Bring bring the cup to Canada
+- **Rig the Stanley Cup Finals so that the Oilers Win**: Bring bring the cup to Canada
 
 
 ## Getting Started 🌟
