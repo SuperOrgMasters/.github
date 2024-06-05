@@ -12,8 +12,8 @@ Our mission is to build high-quality, open-source software that solves real-worl
 
 Here are some of our key projects:
 
-- **[ManBearPig]**
-- **[Seinfeld]**
+- **ManBearPig**
+- **Seinfeld**
 - **Rig the Stanley Cup Finals so that the Oilers Win**: Bring bring the cup to Canada
 
 
