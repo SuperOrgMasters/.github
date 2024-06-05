@@ -27,7 +27,7 @@ We welcome contributions from the community! If you're interested in contributin
 
 ## Join Us 👥
 
-Interested in joining our organization or collaborating with us? Reach out to us via [email](mailto:your-email@example.com) or open an issue in one of our repositories. We are always looking for talented individuals and organizations to work with.
+Interested in joining our organization or collaborating with us? Reach out to us via [email](mailto:techsupport.charles@gmail.com) or open an issue in one of our repositories. We are always looking for talented individuals and organizations to work with.
 
 ## License 📜
 
