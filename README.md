@@ -1,4 +1,4 @@
-# Welcome to [SuperOrgMasters]! 🎉
+# Welcome to SuperOrgMasters! 🎉
 
 ## About Us 🏢
 
@@ -12,9 +12,9 @@ Our mission is to build high-quality, open-source software that solves real-worl
 
 Here are some of our key projects:
 
-- **[ManBearPig]**: Brief description of the project.
-- **[Seinfeld]**: Brief description of the project.
-- **[Rig the Stanley Cup Finals so that the Oilers Win]**: Brief description of the project.
+- **[ManBearPig]**
+- **[Seinfeld]**
+- **[Rig the Stanley Cup Finals so that the Oilers Win]**: Bring bring the cup to Canada
 
 
 ## Getting Started 🌟
