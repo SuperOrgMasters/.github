@@ -23,7 +23,7 @@ To get started with any of our projects, please check the specific project repos
 
 ## Contributing 🤝
 
-We welcome contributions from the community! If you're interested in contributing, please take a look at our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md). We follow these guidelines to ensure a respectful and productive environment for everyone.
+We welcome contributions from the community! If you're interested in contributing, please take a look at our [Contributing Guidelines](Contributing.md) and [Code of Conduct](CODE_OF_CONDUCT.md). We follow these guidelines to ensure a respectful and productive environment for everyone.
 
 ## Join Us 👥
 
